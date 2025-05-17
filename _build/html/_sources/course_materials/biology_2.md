@@ -1,0 +1,2 @@
+# 生物2
+**[这里](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%94%9F%E7%89%A92/%E7%94%9F%E7%89%A9II%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%20-%20%E8%82%96%E6%81%A9%E6%B3%BD.pdf)** 提供了一份生物2的复习笔记。

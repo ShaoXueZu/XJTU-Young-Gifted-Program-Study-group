@@ -1,0 +1,2 @@
+# 音乐
+**[中国民族器乐](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E5%AF%BC%E8%AE%BA/%E7%9B%B8%E5%AF%B9%E8%AE%BA2-3%E6%9C%80%E7%BB%88%E7%89%88.pdf)** 和 **[乐理](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E5%AF%BC%E8%AE%BA/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%864-9%E6%9C%80%E7%BB%88%E7%89%88.pdf)** 提供了分章节的复习指南。

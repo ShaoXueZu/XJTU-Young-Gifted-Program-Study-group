@@ -1,0 +1,2 @@
+# 数学2
+**[这里](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A62/%E3%80%90%E5%B0%91%E5%AD%A6%E7%BB%84%E3%80%91%E6%95%B0%E5%AD%A6%E2%85%A1%E9%AB%98%E6%95%B0%E9%83%A8%E5%88%86%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.pdf)** 提供了数学2高数部分的复习资料。

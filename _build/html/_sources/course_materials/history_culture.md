@@ -1,0 +1,2 @@
+# 历史与文化
+**[这里](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2%E4%B8%8E%E6%96%87%E5%8C%96/%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf)** 提供了一份历史与文化的复习笔记。
