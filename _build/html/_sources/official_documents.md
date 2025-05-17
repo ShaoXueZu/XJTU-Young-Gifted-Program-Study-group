@@ -1,9 +1,0 @@
-# 官方文件转载
-
-这里提供了一些相对重要的官方文件的存档。
-
-* **[大类专业选择方案](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E8%BD%AC%E8%BD%BD/2022%E7%BA%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E4%B8%93%E4%B8%9A%E9%80%89%E6%8B%A9%E6%96%B9%E6%A1%88%EF%BC%88%E5%AE%9A%E7%A8%BF%EF%BC%89%E2%80%94%E2%80%94%E9%92%B1%E5%AD%A6%E6%A3%AE%E5%AD%A6%E9%99%A2.pdf)**
-* **[试验班选择细则](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E8%BD%AC%E8%BD%BD/2022%E7%BA%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E8%BF%9B%E5%85%A5%E5%90%84%E7%B1%BB%E8%AF%95%E9%AA%8C%E7%8F%AD%E9%80%89%E6%8B%94%E7%BB%86%E5%88%99%EF%BC%88%E7%BB%88%E7%A8%BF%EF%BC%89.pdf)**
-* **[本科生综合素质测评成绩评分办法 (预科二不适用)](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E8%BD%AC%E8%BD%BD/7_%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E6%B5%8B%E8%AF%84%E6%88%90%E7%BB%A9%E8%AF%84%E5%AE%9A%E5%8A%9E%E6%B3%95.pdf)**
-* **[预科二本科生综合素质测评成绩评分办法（预科二适用）](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E8%BD%AC%E8%BD%BD/%E5%B0%91%E5%B9%B4%E7%8F%AD%E9%A2%84%E7%A7%91%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%BB%BC%E5%90%88%E7%B4%A0%E8%B4%A8%E6%B5%8B%E8%AF%84%E6%88%90%E7%BB%A9%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99231013.docx)**
-* **[少年班学生管理规定](https://github.com/ShaoXueZu/XJTU-Young-Gifted-Program-Study-group/blob/main/%E5%AE%98%E6%96%B9%E6%96%87%E4%BB%B6%E8%BD%AC%E8%BD%BD/%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf)**
